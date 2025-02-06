@@ -11,7 +11,14 @@
         gap: 16px;
         flex-direction: column;
     }
-    
+ 
+    footer{
+        max-width: 90vw;
+    }
+
+    .footer-item{
+        align-items: center;
+    }
 }
 
 *{
@@ -169,8 +176,8 @@ nav button{
 
 .secImg video{
     position: absolute;
-    top: 40px;
-    right: 45px;
+    top: 70px;
+    right: 49px;
     width: 330px;
 }
 
